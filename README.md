@@ -1,5 +1,7 @@
 # Visual-Question-Asnwering-VQA
 
+Run "Data Proc.py"
+
 More notebooks will be updated soon.
 
 
